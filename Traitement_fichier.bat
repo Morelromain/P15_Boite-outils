@@ -1,1 +1,0 @@
-C:\Windows\System32\cmd.exe /k python -m Traitement_fichier
